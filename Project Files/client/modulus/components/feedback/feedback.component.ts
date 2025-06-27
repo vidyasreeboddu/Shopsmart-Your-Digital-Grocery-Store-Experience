@@ -1,0 +1,12 @@
+
+.row{
+    max-height: 90vh;
+    overflow: auto;
+}
+
+.loader-container{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
